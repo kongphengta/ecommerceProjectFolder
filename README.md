@@ -25,7 +25,62 @@ j'utilise le framework **Symfony** pour créer mon site, car il permet de gagner
 En explorant la section "**The Basics**", on trouve des chapitres détaillés sur le base de données, Doctrine et les formulaires. Symfony propose des outils et des raccourcis qui simplifient considérablements le code, permettant d'aller plus vite. Par exemple :
 
 - La mise en place de **formulaires** devient beaucoup plus intuitive, quelle que soit leur utilisation.
-- La gestion de base de données est optimisée avec **Doctrine**, qui 
+- La gestion de base de données est optimisée avec **Doctrine**, qui offres des solutions robustes pour interagir avec les données.
+
+Un autre avantage majeur de Symfony est sa **grande communauté modiale de développeurs**. Cette communauté contribut activement à maintenir et à enrichir le framework, le rendant extêmement stable. C'est une plateforme fiable et adaptée au développement rapide de projet variés.
+
+## Environnement de développement  
+
+pour développer avec Symfony, j'utilise **XAMPP**, un outil gratuit et faciele à installer. Une fois installé il me fournit tout c'est donc j'ai besoin travailler.
+
+- **Serveur Web Apache**
+- **Base de données Mysql**
+- **PHP** et **Perl**
+- Un serveur **FTP**
+- **phpMyAdmin** pour gérer mes bases de données de manière graphique
+
+XAMPP est une solution complète qui simplifie la configuration de mon environnement de mon développement.
+
+Concernant Symfony, je m'appuie sur sa documenttation officielle, notamment la section sur les **exigences techniques**. Pour utiliser Symfony 7, voici les prérequis principaux :
+
+- **PHP 8.2** pour profiter des dernières fonctionnalités et des meilleures performances.
+- **Composer**, un outil indispensable pour gérer et installer des packages PHP nécessaires au projet.
+
+Grâce à ces outils et à la richesse de documentation de Symfony, je peux développer mon site efficacement en respectant les bonnes pratiques.
+
+## Choix de l'éditeur de code
+
+J'ai testé plusieurs éditeurs de codes gratuits, comme **Sublime TEXT**, **Notepad++**, ou encore **Brackets**. Bien qu'ils soient effices, je trouve que l'un des meilleurs est **Visual Studio Code**. C'est pourquoi j'ai choisi d'utiliser ce dernier.  
+Visual Studio Code offre une interface moderne, une large bibliothèque d'extensions, et nombreuses fonctionnalités qui facilitent le développement, notamment :  
+
+- La **complétion automatique du code** (IntelliSence)
+- Un **terminal intégré**.
+- La **gestion native de Git**
+- Une exellente prise de charge des frameworks et langages, dont PHP pour Symfony.
+
+Ces atouts font VS Code un outil incontournable pour mes projets de développement.
+
+## Symfony et Visual Studio Code
+
+Concernant Symfony, Visual Studio Code s'avère être exellent choix d'éditeur de code grâce à ses nombreuses fonctionnalités et extenxions adaptées. Pour travailler efficacement avec Symfony, j'utilise des extensions spécifiques qui optimise mon flux de de travail, telles que :  
+
+- **PHP intelephense** : pour l'autocomplétion et analyse statique du code PHP.
+- **Symfony support** : une extension dédiée qui aide gérer les commandes Symfony, les fichiers de configurations et les annotations.
+- **PHP debug** : pour déboguer facilement mes applications Symfony avec Xdebug.
+- **Composer Extension** : pour gérer directement les dépendances de Composer depuis l'éditeur.  
+
+Grâce à ces outils, Visual Studio Code devient une plateforme puissance et personnalisée pour le développement avec Symfony. De plus, l'intégration avec Git et le terminal intégré facilite encore d'avantage la gestion de mon projet.  
+
+En combinant Symfony et Visual Studio Code je peux développer de manière rapide, structurer et efficace.   
+
+## Les options pour installer Symfony  
+
+Pour ce faire, je me rends sur le site officiel de Symfony afin de consulter la documentation. Deux options sont proposées pour démarrer le projet Symfony :
+
+
+
+
+
 
 
 

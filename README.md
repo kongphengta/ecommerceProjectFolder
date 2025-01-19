@@ -39,7 +39,7 @@ pour développer avec Symfony, j'utilise **XAMPP**, un outil gratuit et faciele 
 - Un serveur **FTP**
 - **phpMyAdmin** pour gérer mes bases de données de manière graphique
 
-XAMPP est une solution complète qui simplifie la configuration de mon environnement de mon développement.
+XAMPP est une solution complète qui simplifie la configuration de mon environnement de développement.
 
 Concernant Symfony, je m'appuie sur sa documenttation officielle, notamment la section sur les **exigences techniques**. Pour utiliser Symfony 7, voici les prérequis principaux :
 

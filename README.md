@@ -41,7 +41,7 @@ pour développer avec Symfony, j'utilise **XAMPP**, un outil gratuit et faciele 
 
 XAMPP est une solution complète qui simplifie la configuration de mon environnement de développement.
 
-Concernant Symfony, je m'appuie sur sa documenttation officielle, notamment la section sur les **exigences techniques**. Pour utiliser Symfony 7, voici les prérequis principaux :
+Concernant Symfony, je m'appuie sur sa documentation officielle, notamment la section sur les **exigences techniques**. Pour utiliser Symfony 7, voici les prérequis principaux :
 
 - **PHP 8.2** pour profiter des dernières fonctionnalités et des meilleures performances.
 - **Composer**, un outil indispensable pour gérer et installer des packages PHP nécessaires au projet.
